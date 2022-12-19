@@ -5,6 +5,10 @@
 /tmp
 /out-tsc
 /bazel-out
+/pb_data
+/pb_migrations
+
+pocketbase.exe
 
 # Node
 /node_modules
